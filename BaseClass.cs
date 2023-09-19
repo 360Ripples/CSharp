@@ -8,7 +8,7 @@
         // This is callled overriden method
         public virtual void Add(int a, int b)
         {
-            Console.WriteLine("Base class add method trigerrrrrrrred");
+            Console.WriteLine("Base class add method trigedrred");
         }
 
         public virtual void Subtract(int a, int b)
