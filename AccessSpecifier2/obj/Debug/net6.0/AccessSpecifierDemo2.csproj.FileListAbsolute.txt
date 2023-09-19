@@ -1,0 +1,12 @@
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\bin\Debug\net6.0\AccessSpecifierDemo2.deps.json
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\bin\Debug\net6.0\AccessSpecifierDemo2.dll
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\bin\Debug\net6.0\AccessSpecifierDemo2.pdb
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\obj\Debug\net6.0\AccessSpecifierDemo2.csproj.AssemblyReference.cache
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\obj\Debug\net6.0\AccessSpecifierDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\obj\Debug\net6.0\AccessSpecifierDemo2.AssemblyInfoInputs.cache
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\obj\Debug\net6.0\AccessSpecifierDemo2.AssemblyInfo.cs
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\obj\Debug\net6.0\AccessSpecifierDemo2.csproj.CoreCompileInputs.cache
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\obj\Debug\net6.0\AccessSpecifierDemo2.dll
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\obj\Debug\net6.0\refint\AccessSpecifierDemo2.dll
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\obj\Debug\net6.0\AccessSpecifierDemo2.pdb
+C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\AccessSpecifierDemo2\obj\Debug\net6.0\ref\AccessSpecifierDemo2.dll
