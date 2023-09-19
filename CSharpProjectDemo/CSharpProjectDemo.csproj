@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RunAnalyzersDuringBuild>False</RunAnalyzersDuringBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\DELL\Downloads\CSharp\OOPSDemo\OOPSDemo.csproj" />
+    <ProjectReference Include="C:\Users\DELL\Downloads\CSharp_ver_3.0\CSharp\CollectionsDemo\CollectionsDemo.csproj" />
+    <ProjectReference Include="C:\Users\DELL\Downloads\CSharp_Ver_6.0\CSharp\ExceptionModule\ExceptionModule.csproj" />
+  </ItemGroup>
+
+</Project>

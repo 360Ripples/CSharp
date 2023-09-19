@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CSharpProjectDemo</id>
+    <version>1.0.0</version>
+    <authors>CSharpProjectDemo</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\CSharpProjectDemo\bin\Debug\net6.0\CSharpProjectDemo.runtimeconfig.json" target="lib\net6.0\CSharpProjectDemo.runtimeconfig.json" />
+    <file src="C:\Shanmu\Onedrive\laptop\Programcontent\Microsoft\CSharp\CSharpProjectDemo\bin\Debug\net6.0\CSharpProjectDemo.dll" target="lib\net6.0\CSharpProjectDemo.dll" />
+  </files>
+</package>

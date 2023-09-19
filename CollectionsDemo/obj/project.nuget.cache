@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N2DHiyswOgfyvu9swIkbbIyWg9LwRlRdc65k3RmeTkiU6rcbwsMT0rtj9DdGKMOQWYYmD8LPx1PJk1/9yohhaA==",
+  "success": true,
+  "projectFilePath": "E:\\Notes\\CSharp_Projects\\CollectionsDemo\\CollectionsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
