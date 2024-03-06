@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementService\\LibraryManagementService.csproj": {}
+  },
+  "projects": {
+    "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\CommonUtility\\CommonUtility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\CommonUtility\\CommonUtility.csproj",
+        "projectName": "CommonUtility",
+        "projectPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\CommonUtility\\CommonUtility.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\CommonUtility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementBo\\LibraryManagementBo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementBo\\LibraryManagementBo.csproj",
+        "projectName": "LibraryManagementBo",
+        "projectPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementBo\\LibraryManagementBo.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementBo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementDao\\LibraryManagementDao.csproj": {
+                "projectPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementDao\\LibraryManagementDao.csproj"
+              },
+              "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementSystemMiddleTier\\LibraryManagementSystemMiddleTier.csproj": {
+                "projectPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementSystemMiddleTier\\LibraryManagementSystemMiddleTier.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementDao\\LibraryManagementDao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementDao\\LibraryManagementDao.csproj",
+        "projectName": "LibraryManagementDao",
+        "projectPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementDao\\LibraryManagementDao.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementDao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\CommonUtility\\CommonUtility.csproj": {
+                "projectPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\CommonUtility\\CommonUtility.csproj"
+              },
+              "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementVo\\LibraryManagementVo.csproj": {
+                "projectPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementVo\\LibraryManagementVo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "linq2db": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementService\\LibraryManagementService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementService\\LibraryManagementService.csproj",
+        "projectName": "LibraryManagementService",
+        "projectPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementService\\LibraryManagementService.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementBo\\LibraryManagementBo.csproj": {
+                "projectPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementBo\\LibraryManagementBo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementVo\\LibraryManagementVo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementVo\\LibraryManagementVo.csproj",
+        "projectName": "LibraryManagementVo",
+        "projectPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementVo\\LibraryManagementVo.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "E:\\Official\\Official documents\\Corporate\\RamCo\\MalathiProject\\CUIApplication\\LibraryManagementVo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Abp": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
